@@ -7,3 +7,5 @@ This Chatbot has an advance feature of Smart Document Understanding, in which it
 In this we had user a manual named "ecobee_UserGuide.pdf".
 
 Chatbot Link: https://node-red-cfyoh.eu-gb.mybluemix.net/ui/#!/0?socketid=P3lOwP74JMJ8n5cSAAAt
+
+YouTube Video Link: https://youtu.be/94Q0XPki6G8
